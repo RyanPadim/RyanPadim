@@ -14,9 +14,8 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará alguns dos meus projet
 
 ## ✨ Como me encontrar
 
-- [LinkedIn](link-do-linkedin) 🔗
-- [Twitter](link-do-twitter) 🐦
-- [Portfólio](link-do-portfolio) 🌐
+- [LinkedIn](https://www.linkedin.com/in/ryan-padim/) 🔗
+
 
 ## 💬 Sobre mim
 
