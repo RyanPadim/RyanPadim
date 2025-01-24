@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Ryan! 👋
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará alguns dos meus projetos e contribuições em várias áreas. Eu sou [uma breve descrição sobre você, como: "desenvolvedor web", "entusiasta de dados", "programador full-stack", etc.].
 
@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará alguns dos meus projet
 
 ## 📈 Estatísticas do meu GitHub
 
-![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical)
+![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RyanPadim&show_icons=true&theme=radical)
 
 ## ✨ Como me encontrar
 
@@ -24,4 +24,4 @@ Sou apaixonado por aprender coisas novas e estou sempre em busca de desafios. Go
 
 ---
 
-> "Programar não é só sobre escrever código. É sobre resolver problemas." – [Seu nome] 🎤
+> "Programar não é só sobre escrever código. É sobre resolver problemas." – Ryan 🎤
