@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará alguns dos meus projet
 
 ## 🚀 Tecnologias que eu uso
 
-- **Linguagens**: JavaScript, Python, Java, HTML, CSS, etc. 💻
+- **Linguagens**: JavaScript, C#, HTML5, CSS3, etc. 💻
 - **Frameworks**: React, Node.js, etc. ⚡
 - **Ferramentas**: Git, VS Code, etc. 🛠️
 
